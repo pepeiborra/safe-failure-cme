@@ -1,7 +1,7 @@
 Name:           safe-failure-cme
 Build-Type:     Simple
 Cabal-Version:  >= 1.2
-Version:        0.5.0
+Version:        0.1.0
 Copyright:      2011-12, Jose Iborra
 License:        PublicDomain
 Maintainer:     pepeiborra@gmail.com
